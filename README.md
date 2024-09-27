@@ -7,4 +7,3 @@ git config --global user.email "mohdammarahmedmasood@gmail.com"
 
 git config --global user.name "mohd229"
 
-mohd
